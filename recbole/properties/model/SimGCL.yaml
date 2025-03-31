@@ -1,0 +1,8 @@
+embedding_size: 64
+n_layers: 3
+eps: 0.1
+temp: 0.2
+lambda: 0.5
+reg_weight: 1e-5
+cl_weight: 0.01
+#training_neg_sample_num: 1

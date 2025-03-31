@@ -1,0 +1,5 @@
+dropout_rate: 0.1
+feature_type: 'both'
+smooth_ratio: 0.1
+rough_ratio: 0.1
+beta: 1
